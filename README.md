@@ -3,5 +3,5 @@
 
 界面展示
 =
-![]https://github.com/weichentangming/lamp/raw/show-img/1.png
-![]https://github.com/weichentangming/lamp/raw/show-img/1.png
+![]https://github.com/weichentangming/lamp/raw/master/show-img/1.png
+![]https://github.com/weichentangming/lamp/raw/master/show-img/1.png
