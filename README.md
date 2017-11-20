@@ -3,5 +3,5 @@
 
 界面展示
 -
-![过程截图](https:github.com/weichentangming/lamp/raw/master/show-img/1.png)
-![结果](https:github.com/weichentangming/lamp/raw/master/show-img/2.png)
+![过程截图](https://github.com/weichentangming/lamp/raw/master/show-img/1.png)
+![结果](https://github.com/weichentangming/lamp/raw/master/show-img/2.png)
