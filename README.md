@@ -3,6 +3,6 @@
 
 界面展示
 --
-![]https://raw.github.com/weichentangming/lamp/master/show-img/1.png
+![]https://raw.github.com/weichentangming/master/lamp/show-img/1.png
 
-![]https://raw.github.com/weichentangming/lamp/master/show-img/2.png
+![]https://raw.github.com/weichentangming/master/lamp/show-img/2.png
